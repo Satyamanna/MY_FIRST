@@ -3,7 +3,5 @@ class My
 	public static void main(String [] args)
 	{
 		System.out.println("my name is khan");
-		System.out.println("my name is khan");
-
 	}
 }
